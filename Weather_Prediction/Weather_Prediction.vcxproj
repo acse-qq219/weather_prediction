@@ -145,7 +145,7 @@
   <ItemGroup>
     <ClCompile Include="Interface.cpp" />
     <ClCompile Include="LinearRegression.cpp" />
-    <ClCompile Include="maincpp.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Weather.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
