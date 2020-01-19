@@ -1,0 +1,12 @@
+﻿  Interface.cpp
+C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\Interface.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\Interface.cpp(241,22): warning C4018: '<': signed/unsigned mismatch
+  LinearRegression.cpp
+C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\LinearRegression.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\LinearRegression.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+  maincpp.cpp
+  Weather.cpp
+C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\Weather.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\Weather.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Weather_Prediction.vcxproj -> C:\Users\quinn\OneDrive - Imperial College London\ACSE-5\Weather_Prediction\Debug\Weather_Prediction.exe
