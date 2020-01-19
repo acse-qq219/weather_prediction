@@ -4,7 +4,7 @@ A simple weather prediction code for Singapore weather data.
 
 # Usage
 
-* Open `.sln` FILE in MSVC
+* Open `Weather_Prediction.sln` in MSVC
 
 * Run `main.cpp`.
 
